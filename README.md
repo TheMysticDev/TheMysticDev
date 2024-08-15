@@ -51,7 +51,7 @@
 
 <p>
  </br>
-<img hight="320" width="450" align="right" alt="GIF" src="https://qph.cf2.quoracdn.net/main-qimg-80e6038f8bc2dfc49318467b1328a5d1-lq>
+<img hight="320" width="450" align="right" alt="GIF" src="https://qph.cf2.quoracdn.net/main-qimg-80e6038f8bc2dfc49318467b1328a5d1-lq">
 
 
 ⚠️ My discord account in judicial process. ⚠️
