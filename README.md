@@ -12,6 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheM4g1cDev&label=Profile%20views&color=0e75b6&style=flat" alt="Magic-Dev" /> </p>
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
 ### - Learning :
 - 🛜 Computer Networks
 - ✨ Machine Learning
