@@ -51,7 +51,7 @@
 
 <p>
  </br>
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://qph.cf2.quoracdn.net/main-qimg-80e6038f8bc2dfc49318467b1328a5d1-lq>
 
 
 ⚠️ My discord account in judicial process. ⚠️
