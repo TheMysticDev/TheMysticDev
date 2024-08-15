@@ -8,7 +8,7 @@
 
 # About ME 💬 :
 
-### I'm MagicDev also known as Slappy Or Task. I love coding and security.
+### - I'm MagicDev also known as Slappy Or Task. I love coding and security.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheM4g1cDev&label=Profile%20views&color=0e75b6&style=flat" alt="Magic-Dev" /> </p>
 
