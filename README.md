@@ -26,7 +26,9 @@
 </br>
 </br>
 </br>
+
 # Languages 👨‍💻:
+
 ![My Skills2](https://skillicons.dev/icons?i=c,cs,cpp,py,pytorch,nodejs,nextjs,js,php,ruby,rust,discordjs,lua,perl,ts,java,html,haskell&perline=5)
 
 ## Tools 🛠:
