@@ -11,7 +11,7 @@
 ### - I'm MagicDev also known as Slappy Or Task. I love coding and security.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TheM4g1cDev&label=Profile%20views&color=0e75b6&style=flat" alt="Magic-Dev" /> </p>
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://cdn.discordapp.com/attachments/1263691704242933811/1273747650210168873/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966.gif?ex=66bfbd70&is=66be6bf0&hm=7362128e02e0cdb162ede96dbaaee8f165dd0a57b7541955a9d8121d4dd9319a&>
 
 ### - Learning :
 - 🛜 Computer Networks
