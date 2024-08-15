@@ -1,6 +1,6 @@
 # wassup?
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://qph.cf2.quoracdn.net/main-qimg-d8734308c38ac7cc66ff624a91bae301">
 </div>
 </br>
 </br>
