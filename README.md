@@ -5,7 +5,7 @@
   ### Passionate Programmer | Anime & Kitty Enthusiast
 
   [![GitHub followers](https://img.shields.io/github/followers/TheMysticDev?label=Follow&style=social)](https://github.com/TheMysticDev?tab=followers)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/TheMystic02?style=social)](https://twitter.com/TheMysticDev)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/TheMystic02?style=social)](https://twitter.com/TheMystic02)
 
   <p>A developer that combines creativity, technology and love for all things Kittys, to create innovative solutions. Let's build something amazing together!</p>
 </div>
