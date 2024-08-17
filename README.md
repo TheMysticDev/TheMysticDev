@@ -71,27 +71,18 @@
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://twitter.com/YourTwitter" target="_blank">
+  <a href="https://twitter.com/TheMysticDev" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://www.linkedin.com/in/YourLinkedIn" target="_blank">
+  <a href="https://www.linkedin.com/in/TheMysticDev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://yourwebsite.com" target="_blank">
+  <a href="https://comingsoon" target="_blank">
     <img src="https://img.shields.io/badge/Website-FF6F61?style=for-the-badge&logo=globe&logoColor=white" alt="Website">
   </a>
-  <a href="https://discord.com/users/YourUserID" target="_blank">
+  <a href="https://discord.com/users/TheMysticDev" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-</div>
-
----
-
-## 🐾 Kitty Zone
-
-<div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Kitty GIF" width="150">
-  <p>I'm also a huge fan of adorable kitties! Here's a little kitty love to brighten your day! 😸</p>
 </div>
 
 ---
