@@ -7,7 +7,7 @@
   [![GitHub followers](https://img.shields.io/github/followers/TheMysticDev?label=Follow&style=social)](https://github.com/TheMysticDev?tab=followers)
   [![Twitter Follow](https://img.shields.io/twitter/follow/TheMysticDev?style=social)](https://twitter.com/TheMysticDev)
 
-  <p>A developer who combines creativity, code, and a love for all things Kitty to craft innovative solutions. Let's build something amazing together!</p>
+  <p>A developer that combines creativity, technology and love for all things Kittys, to create innovative solutions. Let's build something amazing together!</p>
 </div>
 
 ---
